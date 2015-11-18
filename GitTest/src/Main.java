@@ -1,6 +1,6 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Test Java second time");
+        System.out.println("Test Java third time");
     }
 }
